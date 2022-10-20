@@ -1,0 +1,19 @@
+.quote__container {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    gap: 80px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 120px 120px 60px 0;
+}
+
+
+
+@media screen and (max-width: 899px) {
+    .quote__container {
+        gap: 40px;
+        padding: 60px 18px 40px 18px;
+    }
+}

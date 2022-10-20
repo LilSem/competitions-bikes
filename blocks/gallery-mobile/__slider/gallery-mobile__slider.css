@@ -1,0 +1,14 @@
+.gallery-mobile__slider {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+@media screen and (min-width: 900px) {
+  .gallery-mobile__slider {
+    display: none;
+    visibility: hidden;
+  }
+}

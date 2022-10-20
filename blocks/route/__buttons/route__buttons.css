@@ -1,0 +1,18 @@
+.route__buttons {
+    display: flex;
+    gap: 20px;
+    grid-column: 1;
+    grid-row: 4;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 899px) {
+    .route__buttons {
+        justify-self: flex-end;
+        align-self: center;
+        grid-column: 1;
+        grid-row: 1;
+    }
+}

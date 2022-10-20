@@ -1,0 +1,9 @@
+.gallery__image {
+    margin: 0;
+    min-width: 380px;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    display: flex;
+    box-shadow: -20px 60px 220px 0 rgba(0, 0, 0, 0.44);
+    }

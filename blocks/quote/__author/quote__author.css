@@ -1,0 +1,11 @@
+.quote__author {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+@media screen and (max-width: 899px) {
+    .quote__author {
+        margin: 40px 0 0 0;
+    }
+}

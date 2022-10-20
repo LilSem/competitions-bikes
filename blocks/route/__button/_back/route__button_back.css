@@ -1,0 +1,10 @@
+.route__button_back {
+    background: #ebebeb url(../../../../images/route/item/item-left.png) center/contain no-repeat;
+    background-size: 7px 16px;
+    z-index: 1;
+    transition: border .5s ease-in;
+}
+
+.route__button_back:hover {
+    border: 1px solid #151515;
+}

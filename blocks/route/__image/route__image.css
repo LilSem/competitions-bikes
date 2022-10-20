@@ -1,0 +1,18 @@
+.route__image {
+    max-width: 100%;
+    max-height: 100%;
+    grid-row: 3;
+    padding: 0 0 50px;
+    object-fit: contain;
+}
+
+@media screen and (max-width: 899px) {
+    .route__image {
+        max-width: 284px;
+        grid-row: 2;
+        padding: 0 0 40px;
+    }
+    .route__image:last-of-type {
+        display: none;
+    }
+}

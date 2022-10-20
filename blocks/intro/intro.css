@@ -1,0 +1,22 @@
+.intro {
+    display: grid;
+    margin-top: 20px;
+    grid-template-areas:
+    "section__title intro__image"
+    "intro__description intro__image"
+    "intro__button intro__image"
+    "intro__caption intro__image"
+    ". intro__image";
+    padding-left: 120px;
+}
+
+@media screen and (max-width: 899px) {
+    .intro {
+        grid-template-areas:
+        "section__title"
+        "intro__image"
+        "intro__description"
+        "intro__button";
+        padding-left: 0;
+    }
+}

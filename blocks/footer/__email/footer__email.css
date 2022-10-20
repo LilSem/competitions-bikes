@@ -1,0 +1,17 @@
+.footer__email {
+    margin: 50px 0 100px 0;
+    padding: 0 20px;
+    max-width: 360px;
+    min-height: 50px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 178%;
+    border: 1px solid rgba(199, 199, 199, 0.5);
+    background-color: transparent;
+}
+
+@media screen and (max-width: 899px) {
+    .footer__email {
+        max-width: 284px;
+    }
+}

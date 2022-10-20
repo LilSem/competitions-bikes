@@ -1,0 +1,13 @@
+.gallery-mobile__list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+@media screen and (min-width: 900px) {
+  .gallery-mobile__list {
+    display: none;
+    visibility: hidden;
+  }
+}

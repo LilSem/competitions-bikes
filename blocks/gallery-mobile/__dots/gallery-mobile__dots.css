@@ -1,0 +1,14 @@
+.gallery-mobile__dots {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 3;
+}
+
+@media screen and (min-width: 900px) {
+  .gallery-mobile__dots {
+    display: none;
+    visibility: hidden;
+  }
+}

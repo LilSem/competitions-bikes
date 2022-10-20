@@ -1,0 +1,12 @@
+.gallery-mobile__bike {
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+@media screen and (min-width: 900px) {
+  .gallery-mobile__bike {
+    display: none;
+    visibility: hidden;
+  }
+}

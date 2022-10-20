@@ -1,0 +1,17 @@
+.footer__contact {
+    display: flex;
+    margin: 0;
+    padding: 80px 120px 50px 120px;
+    border: 0;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+}
+
+@media screen and (max-width: 899px) {
+    .footer__contact {
+        padding: 60px 18px 25px 18px;
+        width: 88.75%;
+    }
+}

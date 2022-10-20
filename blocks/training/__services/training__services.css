@@ -1,0 +1,16 @@
+.training__services {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 30px;
+    align-items: flex-start;
+    list-style-type: none;
+    margin: 182px 0 0 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 899px) {
+    .training__services {
+        margin: 40px 0 0 0;
+    }
+}

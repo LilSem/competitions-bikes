@@ -1,0 +1,24 @@
+.intro__caption {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    margin: 0;
+    grid-area: intro__caption;
+}
+
+.intro__caption::after {
+    content: "";
+    width: 132px;
+    height: 2px;
+    background: #d7d4d4;
+    background-size: 132px 2px;
+}
+
+@media screen and (max-width: 899px) {
+    .intro__caption {
+        display: none;
+    }
+}

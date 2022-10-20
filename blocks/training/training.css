@@ -1,0 +1,14 @@
+.training {
+    width: 100%;
+    padding-left: 120px;
+    margin: 0;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+@media screen and (max-width: 899px) {
+    .training {
+        padding-left: 0;
+    }
+}

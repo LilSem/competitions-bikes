@@ -1,0 +1,22 @@
+.route__description {
+    max-width: 460px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    opacity: 0.7;
+    margin: 0;
+    padding-bottom: 80px;
+    grid-column: 1;
+    grid-row: 2;
+}
+
+@media screen and (max-width: 899px) {
+    .route__description {
+        grid-column: auto;
+        grid-row: 3;
+        font-size: 12px;
+        line-height: 18px;
+        padding-bottom: 40px;
+    }
+}

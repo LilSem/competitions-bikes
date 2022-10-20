@@ -1,0 +1,21 @@
+.training__article {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 60px;
+    width: 100%;
+    column-gap: 160px;
+    box-sizing: border-box;
+    margin: 0;
+    padding-top: 150px;
+    padding-right: 120px;
+    padding-bottom: 120px;
+}
+
+@media screen and (max-width: 767px) {
+    .training__article {
+        grid-template-rows: 40px;
+        gap: 40px;
+        padding: 40px 18px 60px 18px;
+        border-top: 1px solid #E3E3E3;
+    }
+}

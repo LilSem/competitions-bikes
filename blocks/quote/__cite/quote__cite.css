@@ -1,0 +1,15 @@
+.quote__cite {
+    max-width: 470px;
+    margin: 0;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 106.93%;
+    letter-spacing: -0.5px;
+}
+
+@media screen and (max-width: 899px) {
+    .quote__cite {
+        font-size: 23px;
+        line-height: 104.18%;
+    }
+}

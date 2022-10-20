@@ -1,0 +1,12 @@
+.footer__request {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+    max-width: 229px;
+}
+
+@media screen and (max-width: 899px) {
+    .footer__request {
+        max-width: 284px;
+    }
+}

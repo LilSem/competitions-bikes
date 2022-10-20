@@ -1,0 +1,19 @@
+.intro__description {
+    max-width: 460px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    opacity: 0.7;
+    margin: 0;
+    padding-bottom: 50px;
+    grid-area: intro__description;
+}
+
+@media screen and (max-width: 899px) {
+    .intro__description {
+        font-size: 12px;
+        line-height: 18px;
+        padding-bottom: 40px;
+    }
+}
