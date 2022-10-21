@@ -1,0 +1,16 @@
+.menu__item {
+    display: block;
+    padding: 12px 24px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #151515;
+    text-decoration: none;
+    transition-duration: .25s;
+}
+
+.menu__item:hover {
+    transition: color 0.3s ease-in;
+    background-color: #24b47e;
+    color: #ffffff;
+}

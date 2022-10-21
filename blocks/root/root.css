@@ -10,11 +10,8 @@
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     box-sizing: border-box;
-
 }
 
-@media screen and (max-width: 899px) {
-    .root {
-        max-width: 284px;
-    }
+* {
+    scroll-behavior: smooth;
 }

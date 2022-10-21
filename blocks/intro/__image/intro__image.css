@@ -1,6 +1,6 @@
 .intro__image {
     max-width: 100%;
-    min-width: 100%;
+    max-height: 100%;
     object-fit: contain;
     grid-area: intro__image;
     justify-self: end;

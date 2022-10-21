@@ -2,6 +2,10 @@
   border: 1px solid rgba(227, 227, 227, 1);
   background-color: transparent;
   max-width: 114px;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 14px;
+  padding: 8px 0 8px 12px;
 }
 
 @media screen and (min-width: 900px) {

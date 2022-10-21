@@ -9,5 +9,7 @@
     .gallery {
         border-top: 1px solid #E3E3E3;
         padding: 0 0 40px 0;
+        max-width: 284px;
+        margin: 0 auto;
     }
 }

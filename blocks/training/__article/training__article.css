@@ -9,7 +9,7 @@
     padding: 150px 0 0 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 899px) {
     .training__article {
         grid-template-rows: 40px;
         gap: 40px;
