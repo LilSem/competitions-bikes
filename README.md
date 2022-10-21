@@ -20,5 +20,7 @@ https:
 
 В дальнейшем в проект будет добавлен календарь мероприятий и интересные маршруты для тренировок.
 
+**Figma и GitHub Pages**
+
 * [Ссылка на макет в Figma](https://www.figma.com/file/6HyXMeDsBXkXfg7sMfMZnx/Sprint-3-competitions-bikes?node-id=2%3A7)
 * [Ссылка на GitHub Pages](https://lilsem.github.io/competitions-bikes/)
