@@ -7,9 +7,10 @@
 
 @media screen and (max-width: 899px) {
     .gallery__header {
-        margin: 0 18px 34.95px 18px;
+        margin: 0 18px 34.95px 0;
         padding: 0;
         flex-wrap: wrap;
         flex-direction: column;
+        justify-content: flex-start;
     }
 }
