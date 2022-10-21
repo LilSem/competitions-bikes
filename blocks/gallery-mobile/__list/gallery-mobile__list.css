@@ -2,8 +2,10 @@
   position: relative;
   overflow: hidden;
   list-style-type: none;
-  padding: 34.95px 14.95px 0 14.95px;
-  margin: 0;
+  padding: 34.95px 14.95px 16px 14.95px;
+  margin: 0 0 20px 0;
+  border-radius: 20px;
+  box-shadow: -20px 60px 220px 0px rgba(0, 0, 0, 0.11);
 }
 
 @media screen and (min-width: 900px) {

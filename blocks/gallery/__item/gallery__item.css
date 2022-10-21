@@ -5,3 +5,10 @@
     opacity: 70%;
     margin: 0;
 }
+
+@media screen and (max-width: 899px) {
+    .gallery__item {
+        font-size: 11px;
+        line-height: 105.16%;
+    }
+}

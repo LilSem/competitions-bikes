@@ -1,5 +1,12 @@
 .gallery-mobile__slider {
   margin: 0px;
-  padding: 0 10px 30px 10px;
+  padding: 0 0 20px 0;
   position: relative;
+}
+
+@media screen and (min-width: 900px) {
+  .gallery-mobile__slider {
+    display: none;
+    visibility: hidden;
+  }
 }

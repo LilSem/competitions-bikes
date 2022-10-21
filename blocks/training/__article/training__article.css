@@ -13,6 +13,6 @@
     .training__article {
         grid-template-rows: 40px;
         gap: 40px;
-        padding: 40px 0 60px 0;
+        padding: 0 0 60px 0;
     }
 }

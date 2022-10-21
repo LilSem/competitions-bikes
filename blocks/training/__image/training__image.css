@@ -13,5 +13,6 @@
     .training__image {
         grid-column: 1;
         grid-row: 2;
+        max-width: 284px;
     }
 }

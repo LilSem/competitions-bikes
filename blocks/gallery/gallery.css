@@ -8,5 +8,6 @@
 @media screen and (max-width: 899px) {
     .gallery {
         border-top: 1px solid #E3E3E3;
+        padding: 0 0 40px 0;
     }
 }
