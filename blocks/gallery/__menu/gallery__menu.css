@@ -6,7 +6,7 @@
     justify-content: flex-end;
     gap: 40px;
     margin: 0;
-    padding: 0;
+    padding: 92px 0 0 0;
 }
 
 @media screen and (max-width: 899px) {

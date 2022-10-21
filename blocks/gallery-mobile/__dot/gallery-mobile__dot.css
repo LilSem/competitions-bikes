@@ -1,10 +1,16 @@
 .gallery-mobile__dot {
-  width: 100%;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  z-index: 3;
-  visibility: hidden;
+  color: rgba(202, 202, 202, 1);
+  cursor: pointer;
+  display: block;
+  font-size: 10px;
+}
+
+.gallery-mobile__dot:hover {
+  color: rgba(21, 21, 21, 1);
+}
+
+.gallery-mobile__dot:checked {
+  color: rgba(21, 21, 21, 1);
 }
 
 @media screen and (min-width: 900px) {

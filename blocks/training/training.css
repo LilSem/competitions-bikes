@@ -1,6 +1,6 @@
 .training {
     width: 100%;
-    padding-left: 120px;
+    padding: 0 0 0 120px;
     margin: 0;
     display: grid;
     justify-content: center;

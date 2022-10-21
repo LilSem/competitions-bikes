@@ -1,8 +1,7 @@
 .gallery-mobile__menu {
-  border: rgba(227, 227, 227, 1);
+  border: 1px solid rgba(227, 227, 227, 1);
   background-color: transparent;
   max-width: 114px;
-  box-shadow: -20px 60px 220px 0 rgba(0, 0, 0, 0.44);
 }
 
 @media screen and (min-width: 900px) {

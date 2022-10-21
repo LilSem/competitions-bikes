@@ -1,8 +1,9 @@
 .gallery-mobile__list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
   position: relative;
+  overflow: hidden;
+  list-style-type: none;
+  padding: 34.95px 14.95px 0 14.95px;
+  margin: 0;
 }
 
 @media screen and (min-width: 900px) {

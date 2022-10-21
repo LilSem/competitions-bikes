@@ -1,9 +1,14 @@
 .gallery-mobile__dots {
-  width: 100%;
+  list-style: none;
+  margin: 20px 0 0 0;
+  padding: 0;
   position: absolute;
+  bottom: 2%;
   left: 0;
-  bottom: 0;
-  z-index: 3;
+  right: 0;
+  text-align: center;
+  z-index: 10;
+  width: 100%;
 }
 
 @media screen and (min-width: 900px) {

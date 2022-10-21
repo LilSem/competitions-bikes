@@ -41,8 +41,15 @@
 @import url(../blocks/gallery/__name/gallery__name.css);
 @import url(../blocks/gallery-mobile/__menu/gallery-mobile__menu.css);
 @import url(../blocks/gallery-mobile/__slider/gallery-mobile__slider.css);
+@import url(../blocks/gallery-mobile/__dots/gallery-mobile__dots.css);
+@import url(../blocks/gallery-mobile/__dot/gallery-mobile__dot.css);
+@import url(../blocks/gallery-mobile/__list/gallery-mobile__list.css);
+@import url(../blocks/gallery-mobile/__bike/gallery-mobile__bike.css);
+@import url(../blocks/gallery-mobile/__label/gallery-mobile__label.css);
+@import url(../blocks/gallery-mobile/__open/gallery-mobile__open.css);
 @import url(../blocks/training/training.css);
 @import url(../blocks/training/__article/training__article.css);
+@import url(../blocks/training/__title/training__title.css);
 @import url(../blocks/training/__text/training__text.css);
 @import url(../blocks/training/__paragraph/training__paragraph.css);
 @import url(../blocks/training/__services/training__services.css);

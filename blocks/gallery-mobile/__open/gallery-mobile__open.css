@@ -1,0 +1,11 @@
+.gallery-mobile__open:checked+.gallery-mobile__bike {
+  position: static;
+  opacity: 100;
+}
+
+@media screen and (min-width: 900px) {
+  .gallery-mobile__open {
+    display: none;
+    visibility: hidden;
+  }
+}

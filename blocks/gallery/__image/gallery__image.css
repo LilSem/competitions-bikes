@@ -1,9 +1,10 @@
 .gallery__image {
     margin: 0;
-    min-width: 380px;
+    width: 100%;
     border-radius: 20px;
-    padding: 20px;
+    padding: 0;
     position: relative;
     display: flex;
-    box-shadow: -20px 60px 220px 0 rgba(0, 0, 0, 0.44);
+    box-shadow: -20px 60px 220px 0 rgba(0, 0, 0, 0.11);
+    object-fit: cover;
     }
