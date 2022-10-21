@@ -6,12 +6,11 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    width: 100%;
 }
 
 @media screen and (max-width: 899px) {
     .footer__contact {
-        padding: 60px 18px 25px 18px;
-        width: 88.75%;
+        padding: 60px 0 0 0;
+        margin: 0;
     }
 }

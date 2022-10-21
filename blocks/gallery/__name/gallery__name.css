@@ -11,3 +11,11 @@
 .gallery__name:hover {
     opacity: 0.7;
 }
+
+@media screen and (max-width: 899px) {
+    .gallery__name {
+        font-size: 14px;
+        line-height: 18px;
+        margin: 2.95px 0 0 0;
+    }
+}

@@ -1,8 +1,9 @@
 .footer__request {
     font-size: 24px;
     font-weight: 600;
-    line-height: 100%;
+    line-height: 32px;
     max-width: 229px;
+    margin: 0;
 }
 
 @media screen and (max-width: 899px) {

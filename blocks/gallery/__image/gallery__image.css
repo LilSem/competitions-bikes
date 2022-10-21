@@ -7,4 +7,10 @@
     display: flex;
     box-shadow: -20px 60px 220px 0 rgba(0, 0, 0, 0.11);
     object-fit: cover;
+}
+
+@media screen and (max-width: 899px) {
+    .gallery__image {
+        box-shadow: -20px 60px 220px 0 rgba(0, 0, 0, 0.1);
     }
+}

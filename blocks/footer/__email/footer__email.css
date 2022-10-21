@@ -1,8 +1,8 @@
 .footer__email {
     margin: 50px 0 100px 0;
-    padding: 0 20px;
+    padding: 11px 0 11px 20px;
     max-width: 360px;
-    min-height: 50px;
+    max-height: 50px;
     font-size: 13px;
     font-weight: 500;
     line-height: 178%;
@@ -12,6 +12,7 @@
 
 @media screen and (max-width: 899px) {
     .footer__email {
-        max-width: 284px;
+        width: 85%;
+        margin: 40px 0 99px 0;
     }
 }
